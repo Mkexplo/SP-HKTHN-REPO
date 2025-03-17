@@ -1,0 +1,35 @@
+declare const styles: {
+    ktchSpfxOnboardingFormWp: string;
+    teams: string;
+    welcome: string;
+    welcomeImage: string;
+    links: string;
+    formHeader: string;
+    headerText: string;
+    formBody: string;
+    nameGroup: string;
+    dptGroup: string;
+    miscGroup: string;
+    emailGroup: string;
+    labelField: string;
+    emailField: string;
+    userNameField: string;
+    profValMessageDiv: string;
+    profValMessage: string;
+    changeValButtonDiv: string;
+    uploadValButtonDiv: string;
+    changeValButton: string;
+    uploadValButton: string;
+    changeValButtonDisabled: string;
+    emailLabelField: string;
+    loaderControl: string;
+    meaningSection: string;
+    fNameField: string;
+    submitButton: string;
+    resetButton: string;
+    valueField: string;
+    lNameField: string;
+    textField: string;
+};
+export default styles;
+//# sourceMappingURL=KtchSpfxOnboardingFormWp.module.scss.d.ts.map

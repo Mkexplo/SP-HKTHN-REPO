@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ktch-hkthn-spfx-onboarding-sol-client-side-solution",
+    "id": "03f798cc-8b21-4979-a8c0-382571fedb04",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "ktch-hkthn-spfx-onboarding-sol description"
+      },
+      "longDescription": {
+        "default": "ktch-hkthn-spfx-onboarding-sol description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "ktch-hkthn-spfx-onboarding-sol Feature",
+        "description": "The feature that activates elements of the ktch-hkthn-spfx-onboarding-sol solution.",
+        "id": "3190082a-adc5-4e44-9bc3-459ca363d0b1",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/ktch-hkthn-spfx-onboarding-sol.sppkg"
+  }
+}
