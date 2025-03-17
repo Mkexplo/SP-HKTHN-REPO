@@ -1,4 +1,4 @@
-# SP-HKTHN-REPO
+# Username Profanity check using SPFx and Azure OpenAI service
 Profanity check for new employee user name
 
 Summary
@@ -8,3 +8,9 @@ The employee onboarding form is developed using an SPFx web part, and for each u
 
 
 ![image](https://github.com/user-attachments/assets/a17ef065-d293-4d38-9c4b-5892d6b44bf8)
+
+
+Prerequisites:
+Your Azure subscription should have Azure OpenAI service.
+Create a Hub and a project within Azure AI foundry. Use gpt-4o-mini deployment model
+Make use of Azure OpenAI Key and endpoint in your SPFx code.
