@@ -11,14 +11,14 @@ The employee onboarding form is developed using an SPFx web part, and for each u
 
 
 Prerequisites:
-
-     Your Azure subscription should have Azure OpenAI service.
+Your Azure subscription should have Azure OpenAI service.
      
-     Create a Hub and a project within Azure AI foundry. Use gpt-4o-mini deployment model. Add instructions and use the code(javascript) generated from "View Code" button for reference
+Create a Hub and a project within Azure AI foundry. Use gpt-4o-mini deployment model. Add instructions and use the code(javascript) generated from "View Code" button for reference
 
-     ![image](https://github.com/user-attachments/assets/af545562-efb8-4707-8ce5-87d84e2650a8)
+
+   ![image](https://github.com/user-attachments/assets/af545562-efb8-4707-8ce5-87d84e2650a8)
 
      
-     Make use of Azure OpenAI Key and endpoint in your SPFx code.
+Make use of Azure OpenAI Key and endpoint in your SPFx code.
 
-      ![image](https://github.com/user-attachments/assets/41e6a069-f26f-42ab-85c2-54f7386e104c)
+   ![image](https://github.com/user-attachments/assets/41e6a069-f26f-42ab-85c2-54f7386e104c)
