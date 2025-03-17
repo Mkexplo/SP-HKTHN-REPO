@@ -23,3 +23,6 @@ Prerequisites:
 -Make use of Azure OpenAI Key and endpoint in your SPFx code.
 
    ![image](https://github.com/user-attachments/assets/41e6a069-f26f-42ab-85c2-54f7386e104c)
+
+
+This code contains only profanity check logic implementation.
